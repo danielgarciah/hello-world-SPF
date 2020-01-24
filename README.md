@@ -1,6 +1,7 @@
 # hello-world-SPF
 Este es el primer ejemplo de github de la clase de Simulación de Procesos Financieros
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Segundo cambio en la primer rama llamada Branch_1
             .,ad88888888baa,
@@ -22,5 +23,7 @@ Segundo cambio en la primer rama llamada Branch_1
       `V8a,       ,ad8888888888P' 
          ""88888888888888888P"    
               """"""""""""
+=======
+>>>>>>> parent of 90c853f... Bola de cristal
 =======
 >>>>>>> parent of 90c853f... Bola de cristal
